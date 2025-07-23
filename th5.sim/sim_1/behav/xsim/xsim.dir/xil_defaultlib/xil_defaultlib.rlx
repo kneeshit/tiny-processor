@@ -1,0 +1,7 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Study/Sem 6/Digital Systems/th5/th5.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Study/Sem 6/Digital Systems/th5/th5.srcs/sim_1/new/th5_tb.v,1744999083,verilog,,,,TinyProcessor_tb,,,,,,,,
+D:/Study/Sem 6/Digital Systems/th5/th5.srcs/sources_1/new/th5.v,1745000067,verilog,,D:/Study/Sem 6/Digital Systems/th5/th5.srcs/sim_1/new/th5_tb.v,,ALU;Control_Unit;Instruction_ROM;Register_File;TinyProcessor,,,,,,,,

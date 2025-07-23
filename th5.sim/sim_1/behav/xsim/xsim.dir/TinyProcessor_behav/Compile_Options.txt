@@ -1,0 +1,1 @@
+-wto "8f2e7c2d6fe84491a5236cd82c00436c" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "TinyProcessor_behav" "xil_defaultlib.TinyProcessor" "xil_defaultlib.glbl" -log "elaborate.log" 
